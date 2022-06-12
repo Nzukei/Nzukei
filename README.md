@@ -28,5 +28,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzukei&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+*NOTE: 「Most Used Languages」 does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
