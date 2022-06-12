@@ -23,6 +23,6 @@
 
 NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzukei&show_icons=true&locale=en" alt="nzukei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzukei&" alt="nzukei" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nzukei&show_icons=true&locale=en" alt="nzukei" /></p>
