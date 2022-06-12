@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sawoosoo1004@gamil.com**
 
-- ⚡ Fun fact **I am a student**
-
 ***
 
 <h3 align="left">Languages and Tools:</h3>
