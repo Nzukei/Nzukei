@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm N図形(Nzukei)</h1>
 <h3 align="center">A developer that studies passionately in Korea</h3>
 
+***
+
 - 🔭 I’m currently studying on [YEOULCOM](https://sites.google.com/view/yeoulcom)
 
 - 🌱 I’m currently learning **C, C#, C++, Python**
