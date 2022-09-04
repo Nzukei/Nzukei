@@ -3,8 +3,6 @@
 
 ***
 
-- 🔭 I’m currently studying on [YEOULCOM](https://sites.google.com/view/yeoulcom)
-
 - 🌱 I’m currently learning **C, C#, C++, Python, Golang**
 
 - 📫 How to reach me **sawoosoo1004@gamil.com**
