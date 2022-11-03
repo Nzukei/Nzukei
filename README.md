@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm N図形(Nzㄴㅁㄹㅁㄴㄹㄴㄹㄴㄹ)</h1>
+<h1 align="center">Hi 👋, I'm N図形(Nzukei)<h1>
 <h3 align="center">A developer that studies passionately in Korea</h3>
 
 ***
