@@ -1,28 +1,16 @@
-<h1 align="center">Hi 👋, I'm N図形(Nzukei)<h1>
-<h3 align="center">A developer that studies passionately in Korea</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Nzukei%20GitHub&fontSize=42" />
 
-***
+<div align=center>
+<h3>Hi 👋, I'm N図形(Nzukei)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
+<h3 align="center">🌱A developer that studies passionately in Korea</h3>
+ 
+📚 Languages / Tools 📚
+  
+![js](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![js](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![js](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 🌱 I’m currently learning **C, C#, C++, Python, Golang**
-
-- 📫 How to reach me **sawoosoo1004@gamil.com**
-
-***
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p> 
-
-***
-
- <br>
-
-📈 My Github stats <br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nzukei&theme=dark&show_icons=true" alt="shwetangStats" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzukei&layout=compact&theme=dark" alt="top-langs" />
-</p>
-
-*NOTE: 「Most Used Languages」 does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
-
+<a href='https://unrealengine.com/'>![js](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)</a>
+![js](https://img.shields.io/badge/Rider-000000?style=flat&logo=Rider&logoColor=white)
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
